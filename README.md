@@ -1,8 +1,9 @@
 # Door_Proximity
 /*
  * iOS 기기 도어락 근접 도어 오픈(iOS device door lock proximity door opening)
+ *
+ * 현관 도어락 근접 도어 자동 제어 모듈 펌웨어(Door lock proximity door automatic control module firmware)
  * 
-  현관 도어락 근접 도어 자동 제어 모듈 펌웨어(Door lock proximity door automatic control module firmware)
   [KOR]
   - 인증된 아이폰/아이패드/애플워치 연결을 위한(iOS) IRK 지원
   - 페어링 전용 학습 버튼 입력(GPIO 2) 및 암호없음
@@ -14,6 +15,7 @@
   - 학습된 위치의 RSSI를 임계값으로 저장함(학습위치보다 더 가까워지면 열림)
   - Arduino\Library\AduinoBLE 폴더 압축 후 삭제 후 사용
   - 지원하는 아두이노 디바이스 ESP32 NORMAL/C3/S2/S3
+
   [ENG]
   - IRK support for authenticated iPhone/iPad/Apple Watch connection (iOS)
   - Pairing-only learning button input (GPIO 2) and no password
