@@ -3,6 +3,7 @@
  * iOS 기기 도어락 근접 도어 오픈(iOS device door lock proximity door opening)
  *
  * 현관 도어락 근접 도어 자동 제어 모듈 펌웨어(Door lock proximity door automatic control module firmware)
+ * Support Environment : Arduino , ESP32
  * 
   [KOR]
   - 인증된 아이폰/아이패드/애플워치 연결을 위한(iOS) IRK 지원
